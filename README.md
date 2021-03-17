@@ -18,7 +18,6 @@
 ## Prérequis
 
 - [PHP](https://windows.php.net/downloads/releases/)
-- [Docker](https://www.docker.com/)
 
 ## Exécuter le projet
 
